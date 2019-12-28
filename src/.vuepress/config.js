@@ -1,7 +1,11 @@
 const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
+<<<<<<< HEAD
 	title: 'Tech Blog',
+=======
+	title: 'Blog',
+>>>>>>> 9b4abf9e960868adeeca97c233b8d772fedddaff
 	dest: './public',
 	themeConfig: {
 		editLinks: true,
